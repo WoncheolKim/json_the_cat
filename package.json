@@ -1,0 +1,29 @@
+{
+  "name": "json_the_cat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "breedFetcher.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WoncheolKim/json_the_cat.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WoncheolKim/json_the_cat/issues"
+  },
+  "homepage": "https://github.com/WoncheolKim/json_the_cat#readme",
+  "dependencies": {
+    "request": "^2.88.2"
+  },
+  "devDependencies": {
+    "chai": "^4.3.6",
+    "eslint": "^8.21.0",
+    "eslint-plugin-react": "^7.30.1",
+    "mocha": "^10.0.0"
+  }
+}
